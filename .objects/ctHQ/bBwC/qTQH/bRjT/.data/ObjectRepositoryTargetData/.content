@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Tlh3ZpAKXUKC5wfzuxI9HA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/clients" CVScreenId="d6331c34-3bfa-49b2-9b85-e0ce0cc7087a" CvTextArea="70, 603, 47, 16" CvTextArgument="Logout" CvType="Text" DesignTimeRectangle="24, 586, 218, 48" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='nav-link' aaname=' Logout                         ' check:innerText='Logout' /&gt;" Guid="d1d52495-a333-42de-a7dd-9f9dbaf07931" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/clients' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="169551c11d51a7ab9a80a12bd7ec5011.png" xmlns="">0tQe9hs7wmUmjA2D8Hm5P2A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

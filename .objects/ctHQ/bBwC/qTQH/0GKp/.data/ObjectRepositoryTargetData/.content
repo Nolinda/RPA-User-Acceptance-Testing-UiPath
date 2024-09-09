@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iINpw1VQGka0fUc0S1vWXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/clients" CVScreenId="4f5ddb58-74f9-4502-b526-c17a61a1d42a" CvElementArea="1246, 465, 19, 22" CvType="Icon" DesignTimeRectangle="1247, 466, 18, 20" DesignTimeScaleFactor="1" FuzzyMatches="10000" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl class='fas fa-trash-alt' type='' tag='I' aaname='' /&gt;" Guid="127c826f-d9c2-4850-9167-0b312f223fe3" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABIAAAAUCAYAAACAl21KAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACKSURBVDhPY/j06dN/amBaG/Tm/+E5O/8zZG9Hwjv/1558g0UtBEMMun/ufyiKJiJx67n/t2ljEBUwwqC7p//7YbMVF244DXcN7Q0qPfzu/55p+NlEGVR7/NP/PTPws0cNGmwGUS36icI4Dfr06P+a/t3/xbFpQse5u//n7noENwTNIMowlQz69B8AeuBpr9e4h+EAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/clients' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7d946293cde4190bd81c8d47e5686737.png" xmlns="">0S1JnMzOpo0CLB8qIRiznZQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

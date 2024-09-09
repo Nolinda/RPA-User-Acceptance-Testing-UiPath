@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Home - Work - Microsoft​ Edge",
+  "Type": "App",
+  "Id": "98cvD8WC8UeJa5si9__85w",
+  "Reference": "8iZdwYx_OUykh8MPX5I2vA/98cvD8WC8UeJa5si9__85w",
+  "Created": "2024-09-08T10:10:46.0382825Z",
+  "Updated": "2024-09-08T10:10:46.0382825Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

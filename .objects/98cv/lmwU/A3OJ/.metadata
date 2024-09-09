@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Home - Work - Microsoft​ Edge",
+  "Type": "Screen",
+  "Id": "A3OJT9FbAUyK_KG91uTSiA",
+  "Reference": "8iZdwYx_OUykh8MPX5I2vA/A3OJT9FbAUyK_KG91uTSiA",
+  "ParentRef": "8iZdwYx_OUykh8MPX5I2vA/lmwUkXXH3UWwWxwh9ocuHw",
+  "Created": "2024-09-08T10:10:46.5273253Z",
+  "Updated": "2024-09-08T10:10:46.5273253Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

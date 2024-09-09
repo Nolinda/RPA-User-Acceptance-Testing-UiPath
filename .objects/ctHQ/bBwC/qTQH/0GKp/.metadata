@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Check App State 'I'",
+  "Type": "Element",
+  "Id": "0GKpn2tYj0uvIgliH0Ekjw",
+  "Reference": "8iZdwYx_OUykh8MPX5I2vA/0GKpn2tYj0uvIgliH0Ekjw",
+  "ParentRef": "8iZdwYx_OUykh8MPX5I2vA/qTQHq-JFN0K3funvsk4IWQ",
+  "Created": "2024-09-08T16:39:07.4827Z",
+  "Updated": "2024-09-08T16:39:07.4827Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

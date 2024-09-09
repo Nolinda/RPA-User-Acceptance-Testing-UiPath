@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check App State 'Client Name'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "xlaPdJZLw0Cc1Mng3Sx5ng",
+  "Reference": "8iZdwYx_OUykh8MPX5I2vA/xlaPdJZLw0Cc1Mng3Sx5ng",
+  "ParentRef": "8iZdwYx_OUykh8MPX5I2vA/MfhO8GVPmk-7GfXfRMqPug",
+  "Created": "2024-09-08T10:47:16.2011393Z",
+  "Updated": "2024-09-08T10:47:16.2011393Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

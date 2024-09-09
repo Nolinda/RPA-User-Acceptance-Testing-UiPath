@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UDugp9acMkicMMCoFi6Dqw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/" CVScreenId="2cd93194-003c-48bf-a430-1b0c1960c63f" CvTextArea="71, 546, 124, 17" CvTextArgument="nolz22@gmail.com" CvType="Text" DesignTimeRectangle="24, 530, 218, 48" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname=' nolz22@gmail.com' class='nav-link' tag='A' type='' check:innerText='nolz22@gmail.com' /&gt;" Guid="b556f26e-8ae4-4ed2-9aee-75a9bf6e9d0e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Home' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="14c2ba2532ec145c2a4c94ced805a8b4.png" xmlns="">0j2wKpYqnwkylXhCbPGgNgw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

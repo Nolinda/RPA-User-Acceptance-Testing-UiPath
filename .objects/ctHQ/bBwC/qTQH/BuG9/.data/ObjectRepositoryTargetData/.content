@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qLOhEqAoU0SoA87AiYDGog" Reference="8iZdwYx_OUykh8MPX5I2vA/BuG9xagd7kmCRN774e6WDA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/projects" CVScreenId="5d592163-cc91-4fd0-819c-e57ef47ff07b" CvElementArea="23, 417, 219, 51" CvTextArea="70, 434, 55, 17" CvTextArgument="Projects" CvType="Button" DesignTimeRectangle="24, 418, 218, 48" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname=' Projects             ' tag='A' type='' class='nav-link active' check:innerText='Projects' /&gt;" Guid="491acce7-4021-4d66-a074-4f9d82067a62" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Projects' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6ecf120da1e6d170cfbb9ca28a5477ef.png" xmlns="">0y0ErBiiWeEKqXiBxegO37w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

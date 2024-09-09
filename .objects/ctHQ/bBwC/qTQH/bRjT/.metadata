@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check App State 'Logout'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "bRjTRCTr2Eit_8tmDLkszA",
+  "Reference": "8iZdwYx_OUykh8MPX5I2vA/bRjTRCTr2Eit_8tmDLkszA",
+  "ParentRef": "8iZdwYx_OUykh8MPX5I2vA/qTQHq-JFN0K3funvsk4IWQ",
+  "Created": "2024-09-08T12:07:38.3033726Z",
+  "Updated": "2024-09-08T12:07:38.3033726Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
